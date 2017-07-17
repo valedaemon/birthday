@@ -1,0 +1,14 @@
+{
+  "host": "localhost",
+  "port": 4040,
+  "mongodb": "mongodb://localhost:27017/birthday",
+  "public": "../../public/",
+  "auth": {
+    "token": {
+      "secret": "}di$gi}w?Ub9ktC°&WHXhRg?I]4x+$$U°oC2b<HP]]w#o}!+^abE)diRz_>^mK$)KkEu2Y9cKkzZJUM8HqvosQ=="
+    },
+    "local": {
+      "usernameField": "email"
+    }
+  }
+}

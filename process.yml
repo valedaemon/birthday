@@ -1,0 +1,5 @@
+apps:
+  - script          : 'server/src'
+    name            : 'backend'
+    env_production  :
+      NODE_ENV      : production
